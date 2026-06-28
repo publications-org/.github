@@ -1,3 +1,5 @@
+![/banner.png](/banner.png)
+
 # PUBLICATIONS @ AMLAL
 
 ## About:
